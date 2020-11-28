@@ -1,0 +1,27 @@
+body
+{
+    border: 2px solid red;
+    padding-left: 20px;
+    size: 500px;
+}
+
+h1
+{
+    color: brown;
+    text-align: center;
+}
+
+*
+{
+    font-family: Cambria, Calibri;
+    margin: 10px;
+}
+
+table, td, tr
+{
+    width: 90%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid;
+    text-align: center;
+}
